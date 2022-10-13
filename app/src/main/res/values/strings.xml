@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS</string>
+
+    <string-array name="logam">
+        <item> Cincin</item>
+        <item> Kalung</item>
+        <item> Gelang</item>
+        <item> Anting-anting</item>
+    </string-array>
+</resources>
